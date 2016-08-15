@@ -1,5 +1,5 @@
 # zabbix-alert_solin
-zabbix-agent端 邮件报警脚本
+# zabbix-agent端 邮件报警脚本
 
 email:
   smtp_host: mail.example.com
